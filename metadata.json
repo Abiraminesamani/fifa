@@ -1,0 +1,6 @@
+{
+  "name": "FIFA World Cup 2026 Stadium Operations Portal",
+  "description": "An intelligent, GenAI-powered full-stack solution for tournament fans, volunteers, and organizers. Includes an interactive crowd visualizer, AI stadium chatbot, transit and accessibility planners, incident copilot, and sustainability managers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
